@@ -1,0 +1,12 @@
+{
+    "name": "i16-projekt3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kjur0/i16-projekt3.git"
+    },
+    "author": "Krzysztof Jurkowski, Zuzanna Dróżdż",
+    "license": "CC-BY-NC-ND-4.0"
+}

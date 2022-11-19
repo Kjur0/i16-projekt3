@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+    color: orange;
+    font-family: "Comic Sans MS";
+    font-size: larger;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: "Algerian";
+    text-decoration: dashed;
+}
+
+a {
+    color: mediumseagreen;
+    font-style: italic;
+}
+
+img {
+    height: 15em;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+}
