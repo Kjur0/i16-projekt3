@@ -12,3 +12,10 @@ var linkEls = document.querySelectorAll("a[href*=\"Dog\"]")
 for (var i = 0; i < linkEls.length; i++) {
     linkEls[i].href = `https://en.wikipedia.org/wiki/Goose`
 }
+var bodyEl = document.querySelector("body")
+bodyEl.style.color = "orange"
+
+$("body").append("<p>That is really cool Computer Virus</p>")
+$("h1").fadeOut(3000)
+$("h1").fadeIn(2000)
+$("h1").text("This article is about Gooses")
